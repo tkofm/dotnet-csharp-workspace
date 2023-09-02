@@ -1,0 +1,15 @@
+c:\src\dev\dotnet\MonPremierProjet\bin\Debug\net7.0\MonPremierProjet.exe
+c:\src\dev\dotnet\MonPremierProjet\bin\Debug\net7.0\MonPremierProjet.deps.json
+c:\src\dev\dotnet\MonPremierProjet\bin\Debug\net7.0\MonPremierProjet.runtimeconfig.json
+c:\src\dev\dotnet\MonPremierProjet\bin\Debug\net7.0\MonPremierProjet.dll
+c:\src\dev\dotnet\MonPremierProjet\bin\Debug\net7.0\MonPremierProjet.pdb
+c:\src\dev\dotnet\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.csproj.AssemblyReference.cache
+c:\src\dev\dotnet\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.GeneratedMSBuildEditorConfig.editorconfig
+c:\src\dev\dotnet\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.AssemblyInfoInputs.cache
+c:\src\dev\dotnet\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.AssemblyInfo.cs
+c:\src\dev\dotnet\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.csproj.CoreCompileInputs.cache
+c:\src\dev\dotnet\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.dll
+c:\src\dev\dotnet\MonPremierProjet\obj\Debug\net7.0\refint\MonPremierProjet.dll
+c:\src\dev\dotnet\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.pdb
+c:\src\dev\dotnet\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.genruntimeconfig.cache
+c:\src\dev\dotnet\MonPremierProjet\obj\Debug\net7.0\ref\MonPremierProjet.dll

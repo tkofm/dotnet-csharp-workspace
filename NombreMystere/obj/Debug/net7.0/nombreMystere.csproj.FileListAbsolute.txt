@@ -1,0 +1,15 @@
+C:\src\dev\dotnet\NombreMystere\bin\Debug\net7.0\nombreMystere.exe
+C:\src\dev\dotnet\NombreMystere\bin\Debug\net7.0\nombreMystere.deps.json
+C:\src\dev\dotnet\NombreMystere\bin\Debug\net7.0\nombreMystere.runtimeconfig.json
+C:\src\dev\dotnet\NombreMystere\bin\Debug\net7.0\nombreMystere.dll
+C:\src\dev\dotnet\NombreMystere\bin\Debug\net7.0\nombreMystere.pdb
+C:\src\dev\dotnet\NombreMystere\obj\Debug\net7.0\nombreMystere.csproj.AssemblyReference.cache
+C:\src\dev\dotnet\NombreMystere\obj\Debug\net7.0\nombreMystere.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\dev\dotnet\NombreMystere\obj\Debug\net7.0\nombreMystere.AssemblyInfoInputs.cache
+C:\src\dev\dotnet\NombreMystere\obj\Debug\net7.0\nombreMystere.AssemblyInfo.cs
+C:\src\dev\dotnet\NombreMystere\obj\Debug\net7.0\nombreMystere.csproj.CoreCompileInputs.cache
+C:\src\dev\dotnet\NombreMystere\obj\Debug\net7.0\nombreMystere.dll
+C:\src\dev\dotnet\NombreMystere\obj\Debug\net7.0\refint\nombreMystere.dll
+C:\src\dev\dotnet\NombreMystere\obj\Debug\net7.0\nombreMystere.pdb
+C:\src\dev\dotnet\NombreMystere\obj\Debug\net7.0\nombreMystere.genruntimeconfig.cache
+C:\src\dev\dotnet\NombreMystere\obj\Debug\net7.0\ref\nombreMystere.dll
